@@ -1,6 +1,6 @@
 # Proyecto: Bootstrap 5 Showcase
 
-Este proyecto es una página web responsiva que implementa todos los componentes y variantes de formularios de Bootstrap 5, siguiendo buenas prácticas de desarrollo.
+Este proyecto es una página web responsiva de una calculadora que implementa todos los componentes y variantes de formularios de Bootstrap 5, siguiendo buenas prácticas de desarrollo.
 
 ## Objetivo
 
