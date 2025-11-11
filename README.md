@@ -13,17 +13,14 @@ Desarrollar una calculadora funcional que permita realizar operaciones aritméti
 
 ## Estructura del Proyecto
 PRY_CALCULADORA_BASICA/
-│
-├── public/
-│ ├── css/
-│ │ └── estilos.css # Estos son los estilos personalizados para la calculadora.
-│ │
-│ ├── js/
-│ │ └── main.js # Es la lógica funcional y la interacción con el usuario.
-│ │
-│ └── vendor/
-│   └── bootstrap-5.0.2-dist/ # Son las librerías CSS y JS de Bootstrap 5
-├── calculadora.html # Es la estructura principal de la página
+  public/
+        css/
+        estilos.css # Estos son los estilos personalizados para la calculadora.
+        js/
+        main.js # Es la lógica funcional y la interacción con el usuario.
+        vendor/
+        bootstrap-5.0.2-dist/ # Son las librerías CSS y JS de Bootstrap 5
+  calculadora.html # Es la estructura principal de la página
 ---
 
 ## Tecnologías Utilizadas
