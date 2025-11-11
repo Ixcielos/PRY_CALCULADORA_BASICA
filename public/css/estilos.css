@@ -1,4 +1,53 @@
+/* Estilos personalizados para la calculadora */
 
+/* Estilo general del cuerpo */
+body {
+    background-color: #f5f5f5;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 1rem;
+}
+
+/* Estilo de la tarjeta de la calculadora */
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: none;
+}
+
+/* Estilo del display de la calculadora */
+#display {
+    font-size: 1.5rem;
+    text-align: right;
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+
+/* Estilo de los botones */
+.calculator-buttons button {
+    font-size: 1.2rem;
+    padding: 0.75rem;
+}
+
+/* Efecto hover en los botones */
+.calculator-buttons button:hover {
+    opacity: 0.9;
+    transform: scale(0.98);
+    transform: all 0.1s ease;
+}
+
+/* Estilo del botón igual (=) */
+.btn-primary {
+    height: calc(100% - 0.5rem);
+}
+
+/* Estilo de los botones de operadores (+, -, *, /) */
+.btn-secondary {
+    background-color: #6c757d;
+    color: white;
+}
 
 
 
